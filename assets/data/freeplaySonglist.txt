@@ -8,3 +8,4 @@ Hallucinations:paps:1
 Last Hope:chara:1
 Reality Check:sansWinning:1
 Wounded Shooting:pico:1
+cringe:sans:1
